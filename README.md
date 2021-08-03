@@ -18,6 +18,8 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=plastic-square&logo=Node.js&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=plastic-square&logo=npm&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=plastic-square&logo=express&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=plastic-square&logo=postman&logoColor=white" />
+
 </p>
 
 <h3>Learning
