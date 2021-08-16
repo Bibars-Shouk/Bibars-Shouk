@@ -36,9 +36,6 @@
 <img alt="Passport" src="https://img.shields.io/badge/-Passport-34E27A?style=plastic-square&logo=passport&logoColor=white" />
 </p>
 
-<h3>projects</h3>
-<p>Coming Soon</p>
-
 
 
 
