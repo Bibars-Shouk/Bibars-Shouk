@@ -1,13 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my page!  
-I'm **Bibars**, A Software engineer, currently living in **Amman, Jordan.**  
-I have a B.Sc degree in **Software Engineering.**  
-Within the years of my study I've built up a solid foundation in software engineering and programming principles.  
-I'm a hard worker, fast learner with a good time management and strong problem solving skills with an analytical mindset.  
-I'm very interested in web development, especially back-end.  
-I'm always learning, always coding and always building side projects so follow me up if you want to see some of my work.  
-  
+I'm **Bibars**, A Software engineer, currently living in **Aßlar, Germany.**   
+B.Sc degree in **Software Engineering.**
   
 > ### Skills
 >> #### Programming languages, frameworks and libraries: 
